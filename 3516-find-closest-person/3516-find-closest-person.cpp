@@ -9,6 +9,7 @@ public:
         else if(count>temp){
             return 2;
         }
+        
         return 1;
     }
 };

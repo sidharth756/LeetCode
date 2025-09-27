@@ -27,7 +27,6 @@ public:
                 grid[i][j] = diag[key][idx[key]++];
             }
         }
-
         return grid;
     }
 };
